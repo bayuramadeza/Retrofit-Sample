@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="text_news">Ini adalah contoh berita dari aplikasi</string>
+    <string name="tanggal">Tanggal</string>
+</resources>
